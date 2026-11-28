@@ -58,7 +58,7 @@ curl https://api-testnet.qore.host/cosmos/tx/v1beta1/txs/<DEPLOY_HASH>
 - [x] Faucet claim (100 QOR) — done 27 Nov ~02:11 WITA
 - [x] `pnpm window register` + `pnpm window open`
 - [x] Deploy + on-chain hybrid verification (see above)
-- [ ] Demo video ≤ 3 min (silent)
+- [x] Demo video ≤ 3 min (silent) — `quantum-pass-demo.mp4`, 1:29, silent; YouTube upload pending
 
 ## Run it yourself
 
